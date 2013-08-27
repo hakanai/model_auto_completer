@@ -4,8 +4,8 @@ Gem::Specification.new do |s|
   s.date         = '2013-08-27'
   s.summary      = 'Autocompleter for selecting a model object'
   s.description  = s.summary #TODO: Is there a difference?
-  #s.authors      = TODO
-  #s.email        = TODO
+  s.authors      = ["dipnlik"]
+  s.email        = "dipnlik@gmail.com"
   s.files        = Dir.glob("lib/**/*.rb")
   s.homepage     = 'https://github.com/dipnlik/model_auto_completer'
   s.license      = 'MIT'
