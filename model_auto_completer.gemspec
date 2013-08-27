@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   #s.email        = TODO
   s.files        = Dir.glob("lib/**/*.rb")
   s.homepage     = 'https://github.com/dipnlik/model_auto_completer'
-  s.licence      = 'MIT'
+  s.license      = 'MIT'
 end
 
